@@ -1,0 +1,2 @@
+# reconocimiento_facial_con_javascript
+face reconigtion with javascript
